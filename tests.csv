@@ -1,0 +1,6 @@
+# comment lines with hash
+#host;domain;testscriptname;comment
+#local;ot;nmap.01;nmap scan on subnets
+local;inet;test01;
+
+

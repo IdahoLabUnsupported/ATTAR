@@ -1,0 +1,2 @@
+args ./local_inet_test01_test.sh ./local_inet_test01.txt ./local_inet_test01 
+TEST PASS
